@@ -121,9 +121,7 @@ npm start
 
 1. Push the project to GitHub.
 
-```
-
-5. Deploy.
+2. Deploy.
 
 ---
 
