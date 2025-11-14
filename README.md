@@ -119,9 +119,9 @@ npm start
 
 ## 🚢 Deployment (Vercel)
 
-1. Push the project to GitHub.
+1. Push the project to GitHub:- https://github.com/farazsfa007/first-skill-nxtwave-assignment
 
-2. Deploy.
+2. Deployment Link:- https://first-skill-nxtwave-assignment-armbgjblr.vercel.app/
 
 ---
 
